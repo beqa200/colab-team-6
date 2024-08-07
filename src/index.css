@@ -7,3 +7,33 @@
   margin: 0;
   padding: 0;
 }
+
+html {
+  font-size: 62.5%;
+}
+
+@keyframes slide-right-to-left {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slide-left-to-right {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+.animate-slide-left-to-right {
+  animation: slide-left-to-right 0.5s ease forwards;
+}
+
+.animate-slide-right-to-left {
+  animation: slide-right-to-left 0.5s ease forwards;
+}
