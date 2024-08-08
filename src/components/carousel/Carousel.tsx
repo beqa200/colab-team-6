@@ -1,9 +1,9 @@
-
+import React from "react";
 
 const Carousel = () => {
-  return (
-    <div>Carousel</div>
-  )
-}
+  return <React.Fragment>
+    
+  </React.Fragment>;
+};
 
-export default Carousel
+export default Carousel;
