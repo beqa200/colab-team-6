@@ -30,7 +30,7 @@ const Header: React.FC<HeaderProps> = ({
         ></div>
         <div
           className={`w-[100%] h-[2px] bg-[#555f62] rounded-[5px] duration-[0.3s] ${
-            isBurgerOpen ? "w-[100%] rotate-[135deg]" : ""
+            isBurgerOpen ? "w-[100%] rotate-[-45deg]" : ""
           }`}
         ></div>
         <div
