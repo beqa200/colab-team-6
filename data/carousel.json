@@ -4,55 +4,63 @@
     "title": "180hz FHD Monitor",
     "image": "./src/assets/carouselAssets/monitor1.png",
     "price": 457.99,
-    "firstPrice": 788.99
+    "firstPrice": 788.99,
+    "defValue": 3
   },
   {
     "id": 2,
     "title": "170hz Curved Monitor",
     "image": "./src/assets/carouselAssets/monitor2.png",
     "price": 399.99,
-    "firstPrice": 465.99
+    "firstPrice": 465.99,
+    "defValue": 2.5
   },
   {
     "id": 3,
     "title": "165hz FastFps Monitor",
     "image": "./src/assets/carouselAssets/monitor3.png",
     "price": 258.43,
-    "firstPrice": 344.56
+    "firstPrice": 344.56,
+    "defValue": 1.5
   },
   {
     "id": 4,
     "title": "Ace Nitro Monitor",
     "image": "./src/assets/carouselAssets/monitor4.png",
     "price": 311.47,
-    "firstPrice": 464.33
+    "firstPrice": 464.33,
+    "defValue": 5
   },
   {
     "id": 5,
     "title": "Sceptre Monitor",
     "image": "./src/assets/carouselAssets/monitor5.png",
     "price": 645.99,
-    "firstPrice": 900.33
+    "firstPrice": 900.33,
+    "defValue": 4
   },
   {
     "id": 6,
     "title": "165hz Sansui Monitor",
     "image": "./src/assets/carouselAssets/monitor6.png",
     "price": 411.31,
-    "firstPrice": 653
+    "firstPrice": 653,
+    "defValue": 3.5
   },
   {
     "id": 7,
     "title": "180hz Gaming Monitor",
     "image": "./src/assets/carouselAssets/monitor7.png",
     "price": 542.99,
-    "firstPrice": 885
+    "firstPrice": 885,
+    "defValue": 5
   },
   {
     "id": 8,
     "title": "AOC Gaming Monitor",
     "image": "./src/assets/carouselAssets/monitor8.png",
     "price": 661.37,
-    "firstPrice": 1110.99
+    "firstPrice": 1110.99,
+    "defValue": 2.5
   }
 ]
